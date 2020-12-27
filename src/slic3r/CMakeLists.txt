@@ -212,6 +212,8 @@ set(SLIC3R_GUI_SOURCES
     Utils/UndoRedo.hpp
     Utils/HexFile.cpp
     Utils/HexFile.hpp
+    Utils/MKS.cpp
+    Utils/MKS.hpp
 )
 
 if (APPLE)
